@@ -1,9 +1,3 @@
-// const currentUrl = window.location.href;
-// const substringToCheck = "rtvmcloading_m";
-
-// if (currentUrl.includes(substringToCheck)) {
-//console.log("Скрипт запущен!");
-
     const settings = {
         water: {
             italiano: {
@@ -459,4 +453,3 @@
     if (btnRepl) {
         btnRepl.addEventListener('click', onBtnReplaceClick);
     }
-// }
